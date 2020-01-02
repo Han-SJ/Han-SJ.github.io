@@ -1,2 +1,15 @@
-name: Han-SJ's github.io
+# Jekyll configuration
+highlighter: rouge
+paginate: 10
+# 언어 설정
+language: 'en-us'
+
+# Website info
+title: IT Blog
+navigation: True
+
+# Disqus
+disqus: True
+disqus_shortname: sunghoons-blog
+
 theme: jekyll-theme-hacker
