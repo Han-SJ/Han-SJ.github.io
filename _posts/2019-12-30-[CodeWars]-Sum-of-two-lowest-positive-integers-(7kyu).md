@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[CodeWars]-Sum-of-two-lowest-positive-integers-(6kyu)"
+title:  "[CodeWars] Sum of two lowest positive integers (6kyu)"
 categories: CodeWars
 ---
 
