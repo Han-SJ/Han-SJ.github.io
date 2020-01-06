@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[CodeWars]-Stop-gninnipS-My-sdroW!-(6kyu)"
+title:  "[CodeWars] Stop gninnipS My sdroW! (6kyu)"
 categories: CodeWars
 ---
 # Details
