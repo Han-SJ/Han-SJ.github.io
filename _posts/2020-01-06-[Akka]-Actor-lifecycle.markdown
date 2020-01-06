@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "[Akka] Actor lifecycle"
-date:   2020-01-06 16:48:00 +0900
 categories: akka
 ---
 The actor will stay in the `Started` state until it's stopped, at which point the actor is in the `Terminated` state.
