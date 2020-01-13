@@ -3,7 +3,8 @@ layout: post
 title:  "[Akka] Actor lifecycle"
 categories: akka
 ---
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6353d83a-be1a-4e26-a54f-fc6b44d717ca/actor_lifecycle.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6353d83a-be1a-4e26-a54f-fc6b44d717ca/actor_lifecycle.png)
+
+![https://doc.akka.io/docs/akka/current/images/actor_lifecycle.png](https://doc.akka.io/docs/akka/current/images/actor_lifecycle.png)
 [https://doc.akka.io/docs/akka/current/actors.html](https://doc.akka.io/docs/akka/current/actors.html)
 
 The actor will stay in the `Started` state until it's stopped, at which point the actor is in the `Terminated` state.
